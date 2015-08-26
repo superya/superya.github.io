@@ -1,16 +1,25 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[My Octopress Blog 6]]></title>
+  <title><![CDATA[magicya的技术博客]]></title>
   <link href="http://superya.github.io/atom.xml" rel="self"/>
   <link href="http://superya.github.io/"/>
-  <updated>2015-08-26T10:00:33+08:00</updated>
+  <updated>2015-08-26T10:29:41+08:00</updated>
   <id>http://superya.github.io/</id>
   <author>
-    <name><![CDATA[Your Name6]]></name>
+    <name><![CDATA[magicya]]></name>
     
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[SDWebImage源码解析]]></title>
+    <link href="http://superya.github.io/blog/2015/08/26/sdwebimageyuan-ma-jie-xi/"/>
+    <updated>2015-08-26T10:29:34+08:00</updated>
+    <id>http://superya.github.io/blog/2015/08/26/sdwebimageyuan-ma-jie-xi</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
   
 </feed>
