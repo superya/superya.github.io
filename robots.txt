@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: 
+
+Sitemap: http://superya.github.io/sitemap.xml 
